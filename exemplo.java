@@ -1,8 +1,7 @@
-class Marketing {
-    private int id_lead;
-    private string nome_lead;
-}
-
-class Admissoes {
-    private int id_prospect;
+class Aluno {
+    private int id_aluno;
+    private String nome_aluno;
+    private int idade;
+    private String curso;
+    private double periodo;
 }
