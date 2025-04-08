@@ -6,4 +6,3 @@ class Marketing {
 class Admissoes {
     private int id_prospect;
 }
-// last update
